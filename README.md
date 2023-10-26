@@ -1,3 +1,3 @@
 # ejercicioGIT
-Mabel Pluas Castro
-mabel.pluasc@gmail.com
+# Mabel Pluas Castro
+## mabel.pluasc@gmail.com
